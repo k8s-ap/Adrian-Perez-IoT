@@ -1,4 +1,13 @@
-### Hi there 👋. 🔭 I’m currently working on Project-IoT
+### Hi there 👋, my name is Adrián
+#### Software and IoT Developer
+![Software and IoT Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: JAVASCRIPT / HTML / CSS / VUE JS / FLUTTER / REACT / DEVOPS / ZIGBEE / ESP8266  / EDU-CIAA
+
+- 🔭 I’m currently working on Project-IoT
+
 
 <!--
 **Adrian-Perez-IoT/Adrian-Perez-IoT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
