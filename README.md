@@ -2,11 +2,11 @@
 #### Software and IoT Developer
 ![Software and IoT Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Licentiate in Systems with knowledge on various technologies, from Hardware to Cloud systems.
 
-Skills: JAVASCRIPT / HTML / CSS / VUE JS / FLUTTER / REACT / DEVOPS / ZIGBEE / ESP8266  / EDU-CIAA
+Skills: JAVASCRIPT / HTML / CSS / C / C++ / FLUTTER / VUE JS / REACT / DEVOPS / ZIGBEE / ESP8266  / EDU-CIAA
 
-- 🔭 I’m currently working on Project-IoT
+- 🔭 I’m currently working on home automation
 
 
 <!--
