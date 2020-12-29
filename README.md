@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Adrián
 #### Software and IoT Developer
-![Software and IoT Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software and IoT Developer](https://famotechnology.co.za/wp-content/uploads/2019/05/iot-banner.jpg)
 
-Licentiate in Systems with knowledge on various technologies, from Hardware to Cloud systems.
+Licentiate in Systems with knowledge on various technologies. Self-taught, always looking for the best practices for everything.
 
 Skills: JAVASCRIPT / HTML / CSS / C / C++ / FLUTTER / VUE JS / REACT / DEVOPS / ZIGBEE / ESP8266  / EDU-CIAA
 
