@@ -2,7 +2,7 @@
 #### Software and IoT Developer
 ![Software and IoT Developer](https://famotechnology.co.za/wp-content/uploads/2019/05/iot-banner.jpg)
 
-Licentiate in Systems with knowledge on various technologies. Self-taught, always looking for the best practices for everything.
+Licentiate in Systems with knowledge on various technologies. Self-taught, always looking for the best practices.
 
 Skills: JAVASCRIPT / HTML / CSS / C / C++ / NODE JS / VUE JS / REACT / SQL / FLUTTER / DEVOPS / ZIGBEE / ESP8266 / EDU-CIAA
 
