@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Adrián
 #### Software and IoT Developer
-![Software and IoT Developer](https://famotechnology.co.za/wp-content/uploads/2019/05/iot-banner.jpg)
+![Software and IoT Developer](https://www.techarcis.com/wp-content/uploads/2017/03/inner_banner0a-1.jpg)
 
 Licentiate in Systems with knowledge on various technologies. Self-taught, always looking for the best practices.
 
