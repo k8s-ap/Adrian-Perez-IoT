@@ -2,7 +2,7 @@
 #### Software and IoT Developer
 ![Software and IoT Developer](https://www.techarcis.com/wp-content/uploads/2017/03/inner_banner0a-1.jpg)
 
-Licentiate in Systems with knowledge on various technologies. Self-taught, always looking for the best practices.
+Licentiate in Systems with knowledge on various technologies. Self-taught, always looking to apply the best practices.
 
 Skills: JAVASCRIPT / HTML / CSS / C / C++ / NODE JS / VUE JS / SQL / DEV-OPS / ZIGBEE / ESP8266 / EDU-CIAA
 
