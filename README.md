@@ -4,7 +4,7 @@
 
 Licentiate in Systems with knowledge on various technologies. Self-taught, always looking to apply the best practices.
 
-Skills: JAVASCRIPT / HTML / CSS / C / C++ / NODE JS / VUE JS / SQL / DEV-OPS / ZIGBEE / ESP8266 / EDU-CIAA
+Skills: JAVASCRIPT / HTML / CSS / C / C++ / NODE JS / VUE JS / SQL / Cordova / CI/CD / Docker / Docker-Compose / AWS / GCP / Zigbee / ESP8266 / EDU-CIAA
 
 - 🔭 I’m currently working on home automation and servers migration.
 - 💬 Ask me about IoT methodologies, ZigBee WPAN, CI/CD (Docker, Docker-Compose, AWS, GCP), Mailserver.
