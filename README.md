@@ -7,8 +7,8 @@ Licentiate in Systems with knowledge on various technologies. Self-taught, alway
 Skills: JAVASCRIPT / HTML / CSS / C / C++ / NODE JS / VUE JS / SQL / Cordova / CI & CD / Docker / Docker-Compose / AWS / GCP / Zigbee / ESP8266 / EDU-CIAA
 
 - 🔭 I’m currently working on home automation and servers migration.
-- 💬 Ask me about IoT methodologies, ZigBee WPAN, CI/CD, Docker, Docker-Compose, AWS, GCP, Amazon SES, Mailserver.
-- 🌱 I’m currently learning Flutter SDK.
+- 💬 Ask me about ZigBee WPAN, CI & CD, Docker, Docker-Compose, Amazon Web Services, Google Cloud Platform, Amazon SES, Mailserver and IoT methodologies.
+- 🌱 I’m currently learning Flutter SDK and Python.
 
 
 <!--
