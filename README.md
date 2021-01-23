@@ -8,7 +8,7 @@ Skills: JAVASCRIPT / HTML / CSS / C / C++ / NODE JS / VUE JS / SQL / Cordova / C
 
 - 🔭 I’m currently working on home automation and servers migration.
 - 💬 Ask me about ZigBee WPAN, CI & CD, Docker, Docker-Compose, Amazon Web Services, Google Cloud Platform, Amazon SES, Mailserver and IoT methodologies.
-- 🌱 I’m currently learning Flutter SDK and Python.
+- 🌱 I’m currently learning Flutter and Python.
 
 
 <!--
