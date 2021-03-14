@@ -4,7 +4,7 @@
 
 Licentiate in Systems, self-taught, always looking to apply the best practices.
 
-Skills: JAVASCRIPT / C / NODE JS / CI & CD / Docker-Compose / Amazon Web Services (EC2, S3, SES) / Zigbee / ESP8266 / EDU-CIAA
+Skills: JAVASCRIPT / C / NODE JS / GtiLab CI&CD / Docker / Docker-Compose / Amazon Web Services (EC2, S3, SES) / Zigbee / ESP8266 / EDU-CIAA.
 
 - 🔭 I’m currently working on home-automation and Sysadmin.
 - 💬 Ask me about ZigBee WPAN, Docker and IoT methodologies.
