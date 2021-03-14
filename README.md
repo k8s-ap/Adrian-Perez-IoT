@@ -2,13 +2,13 @@
 #### Software and IoT Developer
 ![Software and IoT Developer](https://www.techarcis.com/wp-content/uploads/2017/03/inner_banner0a-1.jpg)
 
-Licentiate in Systems with knowledge on various technologies. Self-taught, always looking to apply the best practices.
+Licentiate in Systems, self-taught, always looking to apply the best practices.
 
-Skills: JAVASCRIPT / HTML / CSS / C / C++ / NODE JS / VUE JS / SQL / Cordova / CI & CD / Docker / Docker-Compose / AWS / GCP / Zigbee / ESP8266 / EDU-CIAA
+Skills: JAVASCRIPT / C / C++ / NODE JS / CI & CD / Docker / Docker-Compose / Amazon Web Services / Google Cloud Platform / Zigbee / ESP8266 / EDU-CIAA
 
-- 🔭 I’m currently working on home automation and servers migration.
-- 💬 Ask me about ZigBee WPAN, CI & CD, Docker, Docker-Compose, Amazon Web Services, Google Cloud Platform, Amazon SES, Mailserver and IoT methodologies.
-- 🌱 I’m currently learning Flutter and Python.
+- 🔭 I’m currently working on home-automation and Sysadmin.
+- 💬 Ask me about ZigBee WPAN, Docker and IoT methodologies.
+- 🌱 I’m currently learning Java.
 
 
 <!--
