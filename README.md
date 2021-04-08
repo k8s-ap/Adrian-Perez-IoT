@@ -7,7 +7,7 @@ Licentiate in Systems, self-taught, always looking to apply the best practices.
 Skills: NODE JS / FLUTTER / C / GitLab CI&CD / Docker-Compose / Amazon Web Services (EC2, S3, SES) / Devices IoT (ESP8266, EDU-CIAA, Zigbee).
 
 - 🔭 I’m currently working on Home-Automation projects and Linux Server administrator.
-- 💬 Ask me about ZigBee WPAN.
+- 💬 Ask me about ZigBee WPA and Wemos D1-Mini.
 - 🌱 I’m currently learning talk english and kotlin.
 - 👯 I’m looking to collaborate on Mobile Application development and Server management.
 
