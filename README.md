@@ -8,7 +8,7 @@ Skills: NODE JS / FLUTTER / C / GitLab CI&CD / Docker-Compose / Amazon Web Servi
 
 - 🔭 I’m currently working on Home-Automation projects and Linux Server administrator.
 - 💬 Ask me about ZigBee WPA and Wemos D1-Mini.
-- 🌱 I’m currently learning talk english and kotlin.
+- 🌱 I’m currently learning english talk and kotlin.
 - 👯 I’m looking to collaborate on Mobile Application development and Server management.
 
 
