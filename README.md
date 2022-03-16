@@ -1,15 +1,16 @@
 ### Hi there 👋, my name is Adrián
-#### Software and IoT Developer
-![Software and IoT Developer](https://www.techarcis.com/wp-content/uploads/2017/03/inner_banner0a-1.jpg)
+#### System Administrator and IoT Developer
+![System Administrator and IoT Developer](https://www.techarcis.com/wp-content/uploads/2017/03/inner_banner0a-1.jpg)
 
 Licentiate in Systems, self-taught, always looking to apply the best practices.
 
-Skills: NODE JS / FLUTTER / C / GitLab CI&CD / Docker-Compose / Amazon Web Services (EC2, S3, SES) / Devices IoT (ESP8266, EDU-CIAA, Zigbee).
+Skills: Docker-Swarm / Amazon Web Services (EC2, Lightsail, ECR, RDS, EKS, IAM, S3, SES, Route53) / Gitlab CI-CD / Kubernetes / Terraform / Proxmox / Wireguard / OpenVPN / NGINX / APACHE / PostgreSQL / MySQL / 
+NODE JS / FLUTTER / C / Bash Script / Google Cloud Platform / Digital Ocean / OCI. IoT hobbyist (ESP8266, EDU-CIAA, Zigbee).
 
-- 🔭 I’m currently working on Home-Automation projects and Linux Server administrator.
-- 💬 Ask me about ZigBee WPA and Wemos D1-Mini.
-- 🌱 I’m currently learning english talk and kotlin.
-- 👯 I’m looking to collaborate on Mobile Application development and Server management.
+- 🔭 I’m currently working in BLIMOP.
+- 💬 Ask me about Docker-Swarm, ZigBee WPA and Wemos D1-Mini.
+- 🌱 I’m currently learning english talk and python.
+- 👯 I’m looking to collaborate on Open Source Project.
 
 
 <!--
